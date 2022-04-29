@@ -5,6 +5,7 @@ import Main from './routes/Main';
 import Projects from './routes/Projects';
 import Technology from './routes/Technology';
 
+
 function App() {
   return (
     <div>
@@ -17,5 +18,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
