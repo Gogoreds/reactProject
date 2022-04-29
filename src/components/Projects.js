@@ -9,7 +9,7 @@ const Projects = () => {
             <div className='card'>
                 <h3>Mars Habitat</h3>
                 <span className='loc'>Marsha</span>
-                <p>MARSHA's functional areas are spread over four levels identified by a unique interior atmosphere that encourages mobility and averts monotony. Via the large skylight above and intermittent windows, the space between the two shells acts as light-well connecting all levels with diffuse natural light. This unique space allows for a stair to arc gently from floor to floor, adding dimension to daily life.</p>
+                <p>Marsha's functional areas are spread over four levels identified by a unique interior atmosphere that encourages mobility and averts monotony. Via the large skylight above and intermittent windows, the space between the two shells acts as light-well connecting all levels with diffuse natural light. This unique space allows for a stair to arc gently from floor to floor, adding dimension to daily life.</p>
                 <p>- 2030 -</p>
                 <Link to='/contact' className='btn'>Learn More</Link>
             </div>
