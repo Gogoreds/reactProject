@@ -10,7 +10,7 @@
 }
 
 .header-bg {
-    background-color: rgba(0,0,0, .9);
+    background-color: rgba(0,0,0, .90);
     transition: .5s;
 }
 
@@ -48,7 +48,7 @@
         height: 100vh;
         transition: 0.3s;
         z-index: -1;
-        background: rgba(0,0,0, .9);
+        background: rgba(0,0,0, .90);
     }
 
     .nav-menu.active {
