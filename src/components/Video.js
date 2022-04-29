@@ -1,7 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 import './VideoStyles.css'
-
 import marsVideo from '../assets/Mars.mp4'
 
 const Video = () => {
