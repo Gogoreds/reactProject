@@ -1,8 +1,6 @@
 import React from 'react'
 import './TechnologyStyles.css'
-
 import { Link } from 'react-router-dom'
-
 import Zep from '../assets/Zep.jpg'
 
 const Technology = () => {
