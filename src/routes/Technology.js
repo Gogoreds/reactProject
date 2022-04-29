@@ -4,6 +4,7 @@ import HeroImage from '../components/HeroImage'
 import OurTechnology from '../components/Technology'
 import Footer from '../components/Footer'
 
+
 const Technology = () => {
   return (
     <div>
@@ -14,5 +15,6 @@ const Technology = () => {
     </div>
   )
 }
+
 
 export default Technology

@@ -4,15 +4,17 @@ import HeroImage from '../components/HeroImage'
 import Navbar from '../components/Navbar'
 import Form from '../components/Form'
 
+
 const Contact = () => {
   return (
     <div>
         <Navbar />
-        <HeroImage heading='Contact Us' text='WE WILL GET BACK TO YOU AS SOON AS POSSIBLE'/>
+        <HeroImage heading='Contact Us' text='WE MAY BE OVER THE MOON, BUT WE STILL CHECK OUR MAILS!'/>
         <Form />
         <Footer />
     </div>
   )
 }
+
 
 export default Contact

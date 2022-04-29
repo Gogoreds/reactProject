@@ -4,6 +4,7 @@ import ProjectsElements from '../components/Projects'
 import Footer from '../components/Footer'
 import HeroImage from '../components/HeroImage'
 
+
 const Projects = () => {
   return (
     <div>
@@ -14,5 +15,6 @@ const Projects = () => {
     </div>
   )
 }
+
 
 export default Projects
